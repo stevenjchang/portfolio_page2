@@ -1492,6 +1492,25 @@
 				}
 
 		}
+	
+	#aboutme-bullets {
+		font-size: 1em;
+		text-align: left;
+		margin-left: 20%;
+		color: blue;
+	}
+
+	#aboutme-intro {
+		font-size: 1em !important;
+	}
+
+	#aboutme-intro-red {
+		color: red;
+		font-size: 0.85em;
+	}
+
+
+
 
 /* CTA */
 
